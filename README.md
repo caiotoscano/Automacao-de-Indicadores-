@@ -1,9 +1,8 @@
 # Automação de Indicadores 
  Projeto feito para automatizar processos dentro de um cenário empresarial
- # # Automação de Indicadores
-# 
-# ### Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
-# 
+ #Objetivo
+ Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
+
 # ### Explicação do Projeto:
 # 
 # Imagine que você trabalha em uma grande rede de lojas de roupa com 25 lojas espalhadas por todo o Brasil.
